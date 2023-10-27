@@ -12,7 +12,7 @@ I'm George, a Dev and a Tech enthusiast!
 * Playing Guitar
 
 ## Contact me
-Find me over on the [GitHub Community Discussions](https://github.com/Ssemaganda-George)) or on the (ssgeorge480.hashnode.dev)
+Find me over on the [GitHub Community Discussions](https://github.com/Ssemaganda-George)) or on the [https://hashnode.com/](ssgeorge480.hashnode.dev)
 Reach me @ ssemagandageorge480@gmail.com | +256759918649
 
 <!---
