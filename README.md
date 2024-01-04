@@ -6,8 +6,11 @@ I'm George, a Dev and a Tech enthusiast!
 
 ### Likes
 * AI
+* C
+* Python
 * ML
 * Embedded systems and Robotics
+* Hacking
 * Handsome code
 * Playing Guitar
 
