@@ -2,7 +2,7 @@
 # Welcome to my GitHub profile
 
 ## About me
-I'm George, a Dev and a Tech enthusiast! 
+I'm George, a Dev, Computer scientist and a Tech enthusiast! 
 
 ### Likes
 * AI
