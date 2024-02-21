@@ -5,12 +5,12 @@
  A Dev, Computer scientist and a Tech enthusiast! 
 
 ### Likes
-* AI
-* C
+* HTML ,JS, CSS
 * Python
+* C
 * ML
+* AI
 * Embedded systems and Robotics
-* Hacking
 * Handsome code
 * Playing Guitar
 
