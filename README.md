@@ -2,7 +2,7 @@
 # Welcome to my GitHub profile
 
 ## About me
- A Dev, Computer scientist and a Tech enthusiast! 
+ Core Dev, Computer scientist and a Tech enthusiast! 
 
 ### Likes
 * HTML ,JS, CSS
