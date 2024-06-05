@@ -1,5 +1,5 @@
 
-# Welcome to my GitHub profile
+# Welcome to George_GitHub profile
 
 ## About me
  Core Dev, Computer scientist and a Tech enthusiast! 
@@ -8,9 +8,9 @@
 * HTML ,JS, CSS
 * Python
 * C
-* ML
-* AI
-* Embedded systems and Robotics
+*  Robotics
+* AI & ML
+* Embedded systems
 * Handsome code
 * Acoustic Guitar
 
