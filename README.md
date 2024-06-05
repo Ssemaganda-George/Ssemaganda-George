@@ -12,7 +12,7 @@
 * AI
 * Embedded systems and Robotics
 * Handsome code
-* Playing Guitar
+* Acoustic Guitar
 
 ## Contact me
 Find me over on the [GitHub Community Discussions](https://github.com/Ssemaganda-George)) or on my linkedIn (https://www.linkedin.com/in/ssemaganda-george-03bba8171/) or on
