@@ -5,14 +5,14 @@
  Core Dev, Computer scientist and a Tech enthusiast! 
 
 ### Likes
-* HTML ,JS, CSS
+*ML, AI and Data Science
 * Python
+* JS, CSS
 * C
-*  Robotics
-* AI & ML
+* Robotics
 * Embedded systems
 * Handsome code
-* Acoustic and electric Guitar
+*Guitar
 
 ## Contact me
 Find me over on the [GitHub Community Discussions](https://github.com/Ssemaganda-George)) or on my linkedIn (https://www.linkedin.com/in/ssemaganda-george-03bba8171/) or on
