@@ -5,7 +5,7 @@
  Core Dev, Computer scientist and a Tech enthusiast! 
 
 ### Likes
-*ML, AI and Data Science
+* ML, AI and Data Science
 * Python
 * JS, CSS
 * C
