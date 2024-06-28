@@ -1,5 +1,5 @@
 
-# Welcome to George_GitHub profile
+# Welcome to My profile
 
 ## About me
  Core Dev, Computer scientist and a Tech enthusiast! 
