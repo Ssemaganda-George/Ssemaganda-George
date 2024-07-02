@@ -2,7 +2,7 @@
 # Welcome to My profile
 
 ## About me
- Core Dev, Computer scientist and a Tech enthusiast! 
+ Core Dev, Computer scientist and a Researcher! 
 
 ### Likes
 * ML, AI and Data Science
