@@ -1,5 +1,5 @@
 
-# Welcome to My profile
+# Welcome to My Github profile
 
 ## About me
  Core Dev, Computer scientist and a Researcher! 
