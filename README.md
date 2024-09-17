@@ -20,7 +20,7 @@
 
 
 ## Contact me
-Website: https://github.com/Ssemaganda-George
+Website: https:ssemaganda.com
 
 linkedIn: https://www.linkedin.com/in/ssemaganda-george-03bba8171/
 
