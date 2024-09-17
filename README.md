@@ -20,9 +20,15 @@
 
 
 ## Contact me
-Find me over on the [GitHub Community Discussions](https://github.com/Ssemaganda-George)) or on my linkedIn (https://www.linkedin.com/in/ssemaganda-george-03bba8171/) or on
- [https://hashnode.com/](ssgeorge480.hashnode.dev)
-Reach me @ ssemagandageorge480@gmail.com | +256759918649
+Website: https://github.com/Ssemaganda-George
+
+GitHub Community Discussions: https://github.com/Ssemaganda-George
+
+linkedIn: https://www.linkedin.com/in/ssemaganda-george-03bba8171/
+
+[https://hashnode.com/](ssgeorge480.hashnode.dev)
+
+Reach me on Mobile: +256759918649
 
 
 <!---
