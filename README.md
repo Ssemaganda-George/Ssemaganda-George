@@ -22,13 +22,11 @@
 ## Contact me
 Website: https://github.com/Ssemaganda-George
 
-GitHub Community Discussions: https://github.com/Ssemaganda-George
-
 linkedIn: https://www.linkedin.com/in/ssemaganda-george-03bba8171/
 
-[https://hashnode.com/](ssgeorge480.hashnode.dev)
+Hashnode: https://hashnode.com/ssgeorge480.hashnode.dev
 
-Reach me on Mobile: +256759918649
+Mobile: +256759918649
 
 
 <!---
