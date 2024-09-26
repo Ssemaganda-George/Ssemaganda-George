@@ -1,5 +1,5 @@
 
-# Welcome to My Github profile
+# Welcome to my Simple Code_Store
 
 ## About me
  Core Dev, Computer scientist and a Researcher! 
