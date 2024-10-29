@@ -6,7 +6,9 @@ A passionate Computer Science student and researcher at Makerere University, I�
 My GitHub is a showcase of projects focused on:
 
 🌍 Social Impact & Sustainability: Leveraging AI for food security modeling, I’ve developed systems to aid local farmers in predicting crop yields and addressing climate challenges.
+
 🤖 Machine Learning & AI: I enjoy building models that solve real-world problems, with a strong emphasis on making them accessible and actionable in underrepresented communities.
+
 🌐 Community & Innovation: As Innovations Lead at Google Developer Groups, I collaborate on tech projects to empower youth through mentorship and skill development.
 
 
