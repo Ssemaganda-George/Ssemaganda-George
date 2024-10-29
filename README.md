@@ -2,7 +2,7 @@
 # Welcome to my Simple Code_Store
 
 ## About me
- Core Dev, Computer scientist and a Researcher! 
+ Core Dev, Computer scientist,a Researcher and a Techprenuer! enterprenuer
 
 ### Likes
 * ML, AI and Data Science
