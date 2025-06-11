@@ -1,19 +1,11 @@
 
-# Welcome to my Simple Code_Store
+# Welcome to my Code_Store
 
-👋 Hi, I'm Ssemaganda George!
-A passionate Computer Science student and researcher at Makerere University, I’m driven to harness the power of technology for social impact. 
-My GitHub is a showcase of projects focused on:
+👋 Hi, I’m Ssemaganda George — a Computer Science student at Makerere University, building tech for social good.
 
-🌍 Social Impact & Sustainability: Leveraging AI for food security modeling, I’ve developed systems to aid local farmers in predicting crop yields and addressing climate challenges.
+💡 I work at the intersection of AI, sustainability, and digital inclusion, with projects in climate tech, food systems, and community empowerment.
 
-🤖 Machine Learning & AI: I enjoy building models that solve real-world problems, with a strong emphasis on making them accessible and actionable in underrepresented communities.
-
-🌐 Community & Innovation: As Innovations Lead at Google Developer Groups, I collaborate on tech projects to empower youth through mentorship and skill development.
-
-
-
-I’m always excited to collaborate on projects that bridge the gap between tech and human needs, especially in areas like climate action, digital inclusion, and capacity-building. Let’s connect and create solutions that drive positive, sustainable change!
+🚀 Let’s collaborate on open-source solutions that make real-world impact.
 
 
 
