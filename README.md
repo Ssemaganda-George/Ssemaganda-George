@@ -1,7 +1,7 @@
 
 # Welcome to my Code_Store
 
-👋 Hi, I’m Ssemaganda George — a Computer Science student at Makerere University, building tech for social good.
+👋 Hi, I’m Ssemaganda George — a Computer Scientist from Makerere University, building tech for social good.
 
 💡 I work at the intersection of AI, sustainability, and digital inclusion, with projects in climate tech, food systems, and community empowerment.
 
